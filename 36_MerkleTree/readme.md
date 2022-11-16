@@ -195,7 +195,7 @@ proof = [   "0x999bf57501565dbd2fdcea36efa2b9aef8340a8901e3459f4a4c926275d36cdb"
 
 ![白名单mint](./img/36-6.png)
 
-我们可以用`ownerOf`函数验证`tokenId`为0的`NFT`已经铸造给了地址0，合约运行成功！
+我们可以用`ownerOf`函数验证`tokenId`为0的`NFT`已经铸造给了地址`0x5B38Da6a701c568545dCfcB03FcB875f56beddC4`，合约运行成功！
 
 ![tokenId为0的持有者改变，合约运行成功！](./img/36-7.png)
 
